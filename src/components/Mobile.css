@@ -1,0 +1,18 @@
+.Battery{
+    color: black;
+    margin-top: 30px;
+    background-color: plum;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+.Battery button{
+    color: bisque;
+    padding: 10px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    font-size: larger;
+    margin-right: 20px;
+}
